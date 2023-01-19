@@ -1,0 +1,7 @@
+D:\C# Assignments\Matrix_Operations\bin\Debug\Matrix_Operations.exe.config
+D:\C# Assignments\Matrix_Operations\bin\Debug\Matrix_Operations.exe
+D:\C# Assignments\Matrix_Operations\bin\Debug\Matrix_Operations.pdb
+D:\C# Assignments\Matrix_Operations\obj\Debug\Matrix_Operations.csprojAssemblyReference.cache
+D:\C# Assignments\Matrix_Operations\obj\Debug\Matrix_Operations.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Matrix_Operations\obj\Debug\Matrix_Operations.exe
+D:\C# Assignments\Matrix_Operations\obj\Debug\Matrix_Operations.pdb
